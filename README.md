@@ -33,6 +33,8 @@
 #### 2.2.创建C语言项目
 
 ![image-20210317193726202](C:\Users\qingfeng\AppData\Roaming\Typora\typora-user-images\image-20210317193726202.png)
+![图片](https://user-images.githubusercontent.com/69064737/113304190-5c3cc100-9334-11eb-8c94-074ce6b09f35.png)
+
 
 ![image-20210317193807507](C:\Users\qingfeng\AppData\Roaming\Typora\typora-user-images\image-20210317193807507.png)
 
